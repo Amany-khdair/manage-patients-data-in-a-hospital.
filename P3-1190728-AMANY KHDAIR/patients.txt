@@ -1,0 +1,6 @@
+Abed Mukhles#M#22012019#01012000#Ear Infection#Jenin#O+
+Nadia A. Ali#F#01102020#05101970#COVID-19#AlBireh#A-
+Ahmad Mousa#M#05042021#10051980#COVID-19#Ramallah#A+
+Abed#M#22012019#01012000#Ear Infection#Jenin#O+
+Nadia#F#01102020#05101970#COVID-19#AlBireh#A-
+Ahmad#M#05042021#10051980#COVID-19#Ramallah#A+

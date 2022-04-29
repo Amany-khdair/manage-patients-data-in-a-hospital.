@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1621613900 source:c:\users\hp pro\desktop\project3 amany-1190728\p3-1190728-amany khdair\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
