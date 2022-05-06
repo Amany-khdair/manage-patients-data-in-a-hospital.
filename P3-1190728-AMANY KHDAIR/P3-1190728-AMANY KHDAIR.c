@@ -452,7 +452,7 @@ int main()
             system("cls");//THIS FUNCTION IS JUST TO CLEAR THE OUTPUT SCREEN.
             break;//The break statement ends the loop immediately when it is encountered.
         case 7:
-            //this case will Save all words in file “patients_hash.data
+            //this case will Save all words in file Â“patients_hash.data
             SaveInfoToHashFile(avltree);//this method that will help to save the information to the hash file
             ReadFromTheFile(&table);//this method will help to read the table from file
             printf("\nHello Again :)\nThe Hash Table was loaded successfully\n__________________________________________________________\n");
@@ -806,7 +806,7 @@ void toLower(char *strL)//this method will convert the worlds from upper to lowe
         //convert all the world with capital letter to small letter
         if(strL[X] >= 'A' && strL[X] <= 'Z')
         {
-            strL[X] = strL[X] + 32;//let me explain this statement with example: ‘A‘ has a ASCII value 65 and ‘a‘ has a ASCII value 97 (65+32).
+            strL[X] = strL[X] + 32;//let me explain this statement with example: Â‘AÂ‘ has a ASCII value 65 and Â‘aÂ‘ has a ASCII value 97 (65+32).
         }
     }
 
@@ -1177,4 +1177,3 @@ void PT(HashTable table)
             printf("[%d]:\n", X);
     }
 }
-//this is the end of project 3 X hope every thing was correct. thanks for your time our great doctor
